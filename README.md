@@ -13,7 +13,7 @@ original image:
 
 inverse image:
 
-![image](https://github.com/user-attachments/assets/ac28a2cd-4109-4a26-b047-2fcf4f21ffb0)
+![image](https://github.com/user-attachments/assets/66af7577-6ad2-4f34-97cd-09a973d074fb)
 
 contrast streached image:
 
